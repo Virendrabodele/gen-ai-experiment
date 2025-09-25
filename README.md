@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.buildfastwithai.com/">
-    <img src=".resorces/Banner2.png" width="900px" alt="BuildFastWithAI: Master Generative AI">
-  </a>
-</p>
+
 
 <h1 align="center">🌟 Gen-AI-Experiments</h1>
 
@@ -10,14 +6,7 @@
   <strong>A comprehensive, hands-on collection of experiments in Generative AI. Master LLMs, AI Agents, RAG, and more with practical, open-source examples.</strong>
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/company/build-fast-with-ai">
-        <img src="https://img.shields.io/badge/-Follow%20BuildFastWithAI-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/BuildFastWithAI">
-        <img src="https://img.shields.io/twitter/follow/BuildFastWithAI" alt="Twitter">
-    </a>
-</p>
+
 
 ---
 
@@ -97,16 +86,3 @@ Explore hands-on projects at different levels:
     ```
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
-
-## 🤝 Contributing to Open Source
-
-Contributions are welcome! If you have any ideas, improvements, or new apps to add, please create a new [GitHub Issue](https://github.com/buildfastwithai/gen-ai-experiments/issues) or submit a pull request. Make sure to follow the existing project structure and include a detailed `README.md` for each new app.
-
-
-## 📬 Connect With Us
-
-<div align="center">
-  <a href="https://buildfastwithai.com" target="_blank"><img src="https://img.shields.io/badge/Website-buildfastwithai.com-blue?style=for-the-badge&logo=globe" alt="Website"></a>
-  <a href="https://x.com/BuildFastWithAI" target="_blank"><img src="https://img.shields.io/badge/Twitter-@BuildFastWithAI-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="mailto:satvik@buildfastwithai.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-</div>
